@@ -1,0 +1,402 @@
+[
+    {
+        "Column 0": "LTM Period End",
+        "Column 1": "12/28/2024",
+        "Column 2": "12/28/2024",
+        "Column 3": "01/26/2025",
+        "Column 4": "12/31/2024",
+        "Column 5": "12/29/2024"
+    },
+    {
+        "Column 0": "($ in millions)",
+        "Column 1": "Intel",
+        "Column 2": "AMD *",
+        "Column 3": "NVIDIA",
+        "Column 4": "TSMC",
+        "Column 5": "Qualcomm"
+    },
+    {
+        "Column 0": "Revenue",
+        "Column 1": 53101,
+        "Column 2": 25785,
+        "Column 3": 130497,
+        "Column 4": 90083,
+        "Column 5": 37554
+    },
+    {
+        "Column 0": "Gross Profit",
+        "Column 1": 17345,
+        "Column 2": 12725,
+        "Column 3": 97858,
+        "Column 4": 50557,
+        "Column 5": 20836
+    },
+    {
+        "Column 0": "% Margin",
+        "Column 1": 0.3266416828,
+        "Column 2": 0.4935039752,
+        "Column 3": 0.7498869706,
+        "Column 4": 0.5612268686,
+        "Column 5": 0.5548277148
+    },
+    {
+        "Column 0": "Adj. EBITDA",
+        "Column 1": 11125,
+        "Column 2": 6824,
+        "Column 3": 88653,
+        "Column 4": 61815.6790438545,
+        "Column 5": 14651
+    },
+    {
+        "Column 0": "% Margin",
+        "Column 1": 0.2095064123,
+        "Column 2": 0.2646499903,
+        "Column 3": 0.6793489506,
+        "Column 4": 0.686208042,
+        "Column 5": 0.3901315439
+    },
+    {
+        "Column 0": null,
+        "Column 1": null,
+        "Column 2": null,
+        "Column 3": null,
+        "Column 4": null,
+        "Column 5": null
+    },
+    {
+        "Column 0": "(-) Capex",
+        "Column 1": -22008,
+        "Column 2": -636,
+        "Column 3": -3236,
+        "Column 4": -29755,
+        "Column 5": -1513
+    },
+    {
+        "Column 0": "OCF",
+        "Column 1": -10883,
+        "Column 2": 6188,
+        "Column 3": 85417,
+        "Column 4": 32060.6790438545,
+        "Column 5": 13138
+    },
+    {
+        "Column 0": "% Conversion",
+        "Column 1": "nm",
+        "Column 2": 0.2399844871,
+        "Column 3": 0.6545514456,
+        "Column 4": 0.3559015468,
+        "Column 5": 0.3498428929
+    },
+    {
+        "Column 0": null,
+        "Column 1": null,
+        "Column 2": null,
+        "Column 3": null,
+        "Column 4": null,
+        "Column 5": null
+    },
+    {
+        "Column 0": "Cash Interest",
+        "Column 1": -987,
+        "Column 2": -72,
+        "Column 3": -246,
+        "Column 4": -584,
+        "Column 5": -656
+    },
+    {
+        "Column 0": "Cash Tax",
+        "Column 1": -2202,
+        "Column 2": -1386,
+        "Column 3": -15118,
+        "Column 4": -5715,
+        "Column 5": -3300
+    },
+    {
+        "Column 0": "Change In W.C",
+        "Column 1": 1103,
+        "Column 2": -2098,
+        "Column 3": -9383,
+        "Column 4": -1679,
+        "Column 5": 1067
+    },
+    {
+        "Column 0": "FCF",
+        "Column 1": -12969,
+        "Column 2": 2632,
+        "Column 3": 60670,
+        "Column 4": 24082.6790438545,
+        "Column 5": 10249
+    },
+    {
+        "Column 0": "% Conversion",
+        "Column 1": "nm",
+        "Column 2": 0.1020748497,
+        "Column 3": 0.4649149023,
+        "Column 4": 0.2673387769,
+        "Column 5": 0.272913671
+    },
+    {
+        "Column 0": null,
+        "Column 1": null,
+        "Column 2": null,
+        "Column 3": null,
+        "Column 4": null,
+        "Column 5": null
+    },
+    {
+        "Column 0": "ICR (based on Adj. EBITDA)",
+        "Column 1": "11.3x",
+        "Column 2": "94.8x",
+        "Column 3": "360.4x",
+        "Column 4": "105.8x",
+        "Column 5": "22.3x"
+    },
+    {
+        "Column 0": null,
+        "Column 1": null,
+        "Column 2": null,
+        "Column 3": null,
+        "Column 4": null,
+        "Column 5": null
+    },
+    {
+        "Column 0": "First Lean Debt",
+        "Column 1": 0,
+        "Column 2": 0,
+        "Column 3": 0,
+        "Column 4": 0,
+        "Column 5": 0
+    },
+    {
+        "Column 0": "Second Lean Debt",
+        "Column 1": 0,
+        "Column 2": 0,
+        "Column 3": 0,
+        "Column 4": 0,
+        "Column 5": 0
+    },
+    {
+        "Column 0": "Senior Unsecured Debt",
+        "Column 1": 50985,
+        "Column 2": 2500,
+        "Column 3": 8463,
+        "Column 4": 31157.7036437988,
+        "Column 5": 14577
+    },
+    {
+        "Column 0": "Subordinated Debt",
+        "Column 1": 0,
+        "Column 2": 0,
+        "Column 3": 0,
+        "Column 4": 0,
+        "Column 5": 0
+    },
+    {
+        "Column 0": "Holdco Debt",
+        "Column 1": 0,
+        "Column 2": 0,
+        "Column 3": 0,
+        "Column 4": 0,
+        "Column 5": 0
+    },
+    {
+        "Column 0": "Total Debt",
+        "Column 1": 50985,
+        "Column 2": 2500,
+        "Column 3": 8463,
+        "Column 4": 31157.7036437988,
+        "Column 5": 14577
+    },
+    {
+        "Column 0": "Cash & Cash Equivalents",
+        "Column 1": -22062,
+        "Column 2": -5882,
+        "Column 3": -43210,
+        "Column 4": -73914,
+        "Column 5": -14305
+    },
+    {
+        "Column 0": "Net Debt",
+        "Column 1": 28923,
+        "Column 2": -3382,
+        "Column 3": -34747,
+        "Column 4": -42756.2963562012,
+        "Column 5": 272
+    },
+    {
+        "Column 0": "Minority Interest",
+        "Column 1": 5762,
+        "Column 2": 0,
+        "Column 3": 0,
+        "Column 4": 1069,
+        "Column 5": 0
+    },
+    {
+        "Column 0": "Market Capitalization (as of 03/29/2025)",
+        "Column 1": 98330,
+        "Column 2": 167270,
+        "Column 3": 2680000,
+        "Column 4": 743730,
+        "Column 5": 168910
+    },
+    {
+        "Column 0": "Total Enterprise Value",
+        "Column 1": 133015,
+        "Column 2": 163888,
+        "Column 3": 2645253,
+        "Column 4": 702042.7036437988,
+        "Column 5": 169182
+    },
+    {
+        "Column 0": null,
+        "Column 1": null,
+        "Column 2": null,
+        "Column 3": null,
+        "Column 4": null,
+        "Column 5": null
+    },
+    {
+        "Column 0": "First Lean Leverage",
+        "Column 1": "0.0x",
+        "Column 2": "0.0x",
+        "Column 3": "0.0x",
+        "Column 4": "0.0x",
+        "Column 5": "0.0x"
+    },
+    {
+        "Column 0": "Secured Leverage",
+        "Column 1": "0.0x",
+        "Column 2": "0.0x",
+        "Column 3": "0.0x",
+        "Column 4": "0.0x",
+        "Column 5": "0.0x"
+    },
+    {
+        "Column 0": "Senior Leverage",
+        "Column 1": "4.6x",
+        "Column 2": "0.4x",
+        "Column 3": "0.1x",
+        "Column 4": "0.5x",
+        "Column 5": "1.0x"
+    },
+    {
+        "Column 0": "Opco Leverage",
+        "Column 1": "4.6x",
+        "Column 2": "0.4x",
+        "Column 3": "0.1x",
+        "Column 4": "0.5x",
+        "Column 5": "1.0x"
+    },
+    {
+        "Column 0": "Total Leverage",
+        "Column 1": "4.6x",
+        "Column 2": "0.4x",
+        "Column 3": "0.1x",
+        "Column 4": "0.5x",
+        "Column 5": "1.0x"
+    },
+    {
+        "Column 0": "Net Leverage",
+        "Column 1": "2.6x",
+        "Column 2": "nm",
+        "Column 3": "nm",
+        "Column 4": "nm",
+        "Column 5": "0.0x"
+    },
+    {
+        "Column 0": "TEV/EBITDA",
+        "Column 1": "12.0x",
+        "Column 2": "24.0x",
+        "Column 3": "29.8x",
+        "Column 4": "11.4x",
+        "Column 5": "11.5x"
+    },
+    {
+        "Column 0": null,
+        "Column 1": null,
+        "Column 2": null,
+        "Column 3": null,
+        "Column 4": null,
+        "Column 5": null
+    },
+    {
+        "Column 0": "Comparable Debt:",
+        "Column 1": null,
+        "Column 2": null,
+        "Column 3": null,
+        "Column 4": null,
+        "Column 5": null
+    },
+    {
+        "Column 0": "CFR Rating: (Moddy's/S&P)",
+        "Column 1": "Baa1(N)/BBB(S)",
+        "Column 2": "A2(P)/A(S)",
+        "Column 3": "A2(P)/AA-(S)",
+        "Column 4": "Aa3(S)/AA-(S)",
+        "Column 5": "A2(S)/A(S)"
+    },
+    {
+        "Column 0": "Debt Piece",
+        "Column 1": "Sr. Unsec. Bond",
+        "Column 2": "Sr. Unsec. Bond",
+        "Column 3": "Sr. Unsec. Bond",
+        "Column 4": "Sr. Unsec. Bond",
+        "Column 5": "Sr. Unsec. Bond"
+    },
+    {
+        "Column 0": "Tranch Rating",
+        "Column 1": "Ba1/BBB",
+        "Column 2": "A2/A",
+        "Column 3": "Aa2/AA-",
+        "Column 4": "Aa3/AA-",
+        "Column 5": "A2/A"
+    },
+    {
+        "Column 0": "Maturity",
+        "Column 1": "08-05-29",
+        "Column 2": "03-24-28",
+        "Column 3": "06-15-28",
+        "Column 4": "04-22-29",
+        "Column 5": "05-20-28"
+    },
+    {
+        "Column 0": "Rate/Coupon",
+        "Column 1": 0.04,
+        "Column 2": 0.04319,
+        "Column 3": 0.0155,
+        "Column 4": 0.04125,
+        "Column 5": 0.013
+    },
+    {
+        "Column 0": "Floor",
+        "Column 1": 0,
+        "Column 2": 0,
+        "Column 3": 0,
+        "Column 4": 0,
+        "Column 5": 0
+    },
+    {
+        "Column 0": "Latest Price (as of 03-30-2025)",
+        "Column 1": 96.292391,
+        "Column 2": 100.297,
+        "Column 3": 91.986,
+        "Column 4": 98.497,
+        "Column 5": 91.182489
+    },
+    {
+        "Column 0": "Yield till Maturity",
+        "Column 1": 0.0495775643,
+        "Column 2": 0.0421162266,
+        "Column 3": 0.0424995996,
+        "Column 4": 0.0453398571,
+        "Column 5": 0.0433700052
+    },
+    {
+        "Column 0": "Yeild per Ton (Yeild/Total Leverage)",
+        "Column 1": 0.0108178955,
+        "Column 2": 0.114960452,
+        "Column 3": 0.4451987482,
+        "Column 4": 0.089952523,
+        "Column 5": 0.0435901726
+    }
+]

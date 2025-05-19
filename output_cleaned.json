@@ -1,0 +1,188 @@
+[
+  {
+    "Particulars": "(in ₹ Crore, FY End: 31/03)",
+    "FY'22": "31-03-2022",
+    "FY'23": "31-03-2023",
+    "FY'24": "31-03-2024"
+  },
+  {
+    "Particulars": "Income Statement",
+    "FY'22": null,
+    "FY'23": null,
+    "FY'24": null
+  },
+  {
+    "Particulars": "Interest Income",
+    "FY'22": 7522.78,
+    "FY'23": 7798.62,
+    "FY'24": 7313.89
+  },
+  {
+    "Particulars": "Finance Cost",
+    "FY'22": 4225.09,
+    "FY'23": 3994.32,
+    "FY'24": 4343.91
+  },
+  {
+    "Particulars": "Net Interest Income",
+    "FY'22": 3297.69,
+    "FY'23": 3804.3,
+    "FY'24": 2969.98
+  },
+  {
+    "Particulars": "Non Interest Income:",
+    "FY'22": null,
+    "FY'23": null,
+    "FY'24": null
+  },
+  {
+    "Particulars": "Dividend Income",
+    "FY'22": 49.36,
+    "FY'23": 91.75,
+    "FY'24": 147.89
+  },
+  {
+    "Particulars": "Rental Income",
+    "FY'22": 1.18,
+    "FY'23": 23.02,
+    "FY'24": 78.84
+  },
+  {
+    "Particulars": "Fees and Commission Income",
+    "FY'22": 135.43,
+    "FY'23": 291.64,
+    "FY'24": 559.72
+  },
+  {
+    "Particulars": "Net gain on fair value of changes",
+    "FY'22": 0,
+    "FY'23": 0,
+    "FY'24": 733.98
+  },
+  {
+    "Particulars": "Other Operating Income",
+    "FY'22": 0,
+    "FY'23": 717.44,
+    "FY'24": 1180.5
+  },
+  {
+    "Particulars": "Manpower and professional services",
+    "FY'22": 16.75,
+    "FY'23": 11.83,
+    "FY'24": 5.45
+  },
+  {
+    "Particulars": "Other Income",
+    "FY'22": 185.39,
+    "FY'23": 152.44,
+    "FY'24": 158.09
+  },
+  {
+    "Particulars": "Total Non Interest Income",
+    "FY'22": 388.11,
+    "FY'23": 1288.12,
+    "FY'24": 2864.47
+  },
+  {
+    "Particulars": "Total Income (Post Finance cost)",
+    "FY'22": 3685.8,
+    "FY'23": 5092.42,
+    "FY'24": 5834.45
+  },
+  {
+    "Particulars": "Total Income (Prior to Finance Cost)",
+    "FY'22": 7910.89,
+    "FY'23": 9086.74,
+    "FY'24": 10178.36
+  },
+  {
+    "Particulars": "Expenses",
+    "FY'22": null,
+    "FY'23": null,
+    "FY'24": null
+  },
+  {
+    "Particulars": "Fees and Commission Expense",
+    "FY'22": 56.63,
+    "FY'23": 46.86,
+    "FY'24": 56.53
+  },
+  {
+    "Particulars": "Net loss on fair value changes",
+    "FY'22": 133.85,
+    "FY'23": 808.75,
+    "FY'24": 0
+  },
+  {
+    "Particulars": "Net loss on derecognition of financial instruments",
+    "FY'22": 22.06,
+    "FY'23": 4642.17,
+    "FY'24": 4144.63
+  },
+  {
+    "Particulars": "Asset Write-downs",
+    "FY'22": 674.01,
+    "FY'23": -155.86,
+    "FY'24": -733.43
+  },
+  {
+    "Particulars": "Employee Benefit Expense",
+    "FY'22": 512.64,
+    "FY'23": 930.05,
+    "FY'24": 1350.03
+  },
+  {
+    "Particulars": "Depreciation, Amortization and Impairment",
+    "FY'22": 74.28,
+    "FY'23": 122.88,
+    "FY'24": 828.96
+  },
+  {
+    "Particulars": "Other Expenses",
+    "FY'22": 584.83,
+    "FY'23": 1161.91,
+    "FY'24": 1533.27
+  },
+  {
+    "Particulars": "Profit Before Tax (Prior to exceptional gains)",
+    "FY'22": 1627.5,
+    "FY'23": -2464.34,
+    "FY'24": -1345.54
+  },
+  {
+    "Particulars": "Profit/(Loss) from Joint Venture",
+    "FY'22": 593.85,
+    "FY'23": 388.61,
+    "FY'24": 153.73
+  },
+  {
+    "Particulars": "Exceptional Gains/(Loss)",
+    "FY'22": -152.92,
+    "FY'23": 7975.89,
+    "FY'24": -2086.59
+  },
+  {
+    "Particulars": "Profit/(loss) Before Tax",
+    "FY'22": 2068.43,
+    "FY'23": 5900.16,
+    "FY'24": -3278.4
+  },
+  {
+    "Particulars": "Tax",
+    "FY'22": -406.19,
+    "FY'23": 4068.42,
+    "FY'24": 1594.87
+  },
+  {
+    "Particulars": "Profit/(Loss) from Dicountiued Operation",
+    "FY'22": 336.53,
+    "FY'23": 0,
+    "FY'24": 0
+  },
+  {
+    "Particulars": "Profit After Tax",
+    "FY'22": 1998.77,
+    "FY'23": 9968.58,
+    "FY'24": -1683.53
+  }
+]

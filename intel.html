@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Intel Income Statement</title>
+    <script src="intel.js"></script>
+    <script src="page_navigation.js"></script>
+    <link rel="stylesheet" href="intel.css" />
+  </head>
+
+  <body>
+    <!--Tab Links-->
+    <div class="tab">
+      <button class="tablinks" onclick="openStatement(event, 'intel_About')">
+        About Buisness
+      </button>
+      <button class="tablinks" onclick="openStatement(event, 'intel_IS')">
+        Income Statement
+      </button>
+      <button class="tablinks" onclick="openStatement(event, 'intel_BS')">
+        Balance Sheet
+      </button>
+      <button class="tablinks" onclick="openStatement(event, 'intel_CF')">
+        Cash Flow
+      </button>
+      <button class="tablinks" onclick="openStatement(event, 'intel_FCF')">
+        Free Cash Flow
+      </button>
+      <button class="tablinks" onclick="openStatement(event, 'intel_CS')">
+        Capital Structure
+      </button>
+      <button class="tablinks" onclick="openStatement(event, 'intel_Comps')">
+        Comps Table
+      </button>
+      <button class="tablinks" onclick="openStatement(event, 'intel_RPF')">
+        Recent Performance
+      </button>
+    </div>
+
+    <!--Tab Content-->
+    <div class="table_container" id="intel_About">
+      <h1>Intel</h1>
+      <p>
+        Headquartered in Santa Clara, California Intel Corp. is manufacturer and
+        designer of semiconductor product. Intel manufacture hardware devices
+        like CPUs, IPUs, GPUs, VPAs, FPGAs, AI accelerators and Memory and
+        storage solutions. Company operates into four segments Client Computing
+        Segment, Data Center and AI, Network and Edge and Foundry. Customer
+        includes OEMs, ODMs, cloud service providers, industrial and
+        communication equipment manufacturers and others. Intel has wafer
+        manufacturing facilities in the United States (Oregon and Arizona),
+        Ireland, and Israel, assembly and testing facilities in Costa Rica,
+        China, Malaysia, and Vietnam, and packaging facilities in the United
+        States (New Mexico), Costa Rica, Vietnam, and Malaysia.
+      </p>
+      <p>
+        Recent Transaction: Sold NAND business for $9.0B to SK Hynix citing high
+        competition, low differentiation and cyclic pricing in the NANA flash
+        memory business.
+      </p>
+    </div>
+    <div class="table_container" id="intel_IS">
+      <table>
+        <thead>
+          <tr class="header">
+            <th id="column_1"></th>
+            <th>FY'18</th>
+            <th>FY'19</th>
+            <th>FY'20</th>
+            <th>FY'21</th>
+            <th>Q1'22</th>
+            <th>Q2'22</th>
+            <th>Q3'22</th>
+            <th>Q4'22</th>
+            <th>FY'22</th>
+            <th>Q1'23</th>
+            <th>Q2'23</th>
+            <th>Q3'23</th>
+            <th>Q4'23</th>
+            <th>FY'23</th>
+            <th>Q1'24</th>
+            <th>Q2'24</th>
+            <th>LTM</th>
+          </tr>
+        </thead>
+        <tbody id="data-output">
+          <!---populated from the javascript file-->
+        </tbody>
+      </table>
+    </div>
+    <div class="table_container" id="intel_BS">
+      <table>
+        <thead>
+          <tr class="header_BS">
+            <th id="column_1_BS"></th>
+            <th>FY'18</th>
+            <th>FY'19</th>
+            <th>FY'20</th>
+            <th>FY'21</th>
+            <th>Q1'22</th>
+            <th>Q2'22</th>
+            <th>Q3'22</th>
+            <th>Q4'22</th>
+            <th>FY'22</th>
+            <th>Q1'23</th>
+            <th>Q2'23</th>
+            <th>Q3'23</th>
+            <th>Q4'23</th>
+            <th>FY'23</th>
+            <th>Q1'24</th>
+            <th>Q2'24</th>
+            <th>LTM</th>
+          </tr>
+        </thead>
+        <tbody id="data-output_BS">
+          <!---populated from the javascript file-->
+        </tbody>
+      </table>
+    </div>
+    <div class="table_container" id="intel_CF">
+      <table>
+        <thead>
+          <tr class="header_CF">
+            <th id="column_1_CF"></th>
+            <th>FY'18</th>
+            <th>FY'19</th>
+            <th>FY'20</th>
+            <th>FY'21</th>
+            <th>Q1'22</th>
+            <th>Q2'22</th>
+            <th>Q3'22</th>
+            <th>Q4'22</th>
+            <th>FY'22</th>
+            <th>Q1'23</th>
+            <th>Q2'23</th>
+            <th>Q3'23</th>
+            <th>Q4'23</th>
+            <th>FY'23</th>
+            <th>Q1'24</th>
+            <th>Q2'24</th>
+            <th>Q2'24</th>
+            <th>LTM</th>
+          </tr>
+        </thead>
+        <tbody id="data-output_CF">
+          <!---populated from the javascript file-->
+        </tbody>
+      </table>
+    </div>
+    <div class="table_container" id="intel_FCF">
+      <table>
+        <thead>
+          <tr class="header_FCF">
+            <th id="column_1_FCF"></th>
+            <th>FY'18</th>
+            <th>FY'19</th>
+            <th>FY'20</th>
+            <th>FY'21</th>
+            <th>Q1'22</th>
+            <th>Q2'22</th>
+            <th>Q3'22</th>
+            <th>Q4'22</th>
+            <th>FY'22</th>
+            <th>Q1'23</th>
+            <th>Q2'23</th>
+            <th>Q3'23</th>
+            <th>Q4'23</th>
+            <th>FY'23</th>
+            <th>Q1'24</th>
+            <th>Q2'24</th>
+            <th>Q3'24</th>
+            <th>LTM</th>
+          </tr>
+        </thead>
+        <tbody id="data-output_FCF">
+          <!---populated from the javascript file-->
+        </tbody>
+      </table>
+    </div>
+    <div class="table_container" id="intel_CS">
+      <table>
+        <thead>
+          <tr class="header_CS">
+            <th id="column_1_CS"></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="data-output_CS">
+          <!---populated from the javascript file-->
+        </tbody>
+      </table>
+    </div>
+    <div class="table_container" id="intel_Comps">
+      <table>
+        <thead>
+          <tr class="header_Comps">
+            <th id="column_1_Comps"></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="data-output_Comps">
+          <!---populated from the javascript file-->
+        </tbody>
+      </table>
+      <nav class="note">
+        <tr>
+          * Note: Some Comps are Pro Forma caculated (as of 03-30-2025)
+        </tr>
+        <hr />
+        <tr>
+          IS & CF:Amounts in New Taiwan dollars have been translated into U.S.
+          dollars at the weighted average rate of NT$32.129 for the year ended
+          December 31, 2024.
+        </tr>
+        <hr />
+        <tr>
+          Balance Sheet: Amounts in New Taiwan dollars have been translated into
+          U.S. dollars at the rate of NT$32.768 as of December 31, 2024.
+        </tr>
+      </nav>
+    </div>
+    <div class="table_container" id="intel_RPF">
+      <h2>About Operating Segments</h2>
+      <p style="text-align: justify">
+        Company operates in four segment Client Computing Group (CCG), Data
+        Center and Artificial Intelligence (DCAI), Intel Foundry. that
+        manufactures wafers and related services for intel products and other
+        services that includes Altera (51% stake sold to silver lake partners)
+        and Mobileye businesses.
+      </p>
+      <p style="text-align: justify">
+        CCG includes platforms and processors that power personal computers,
+        DCAI provides high-performance computing, AI acceleration, and
+        infrastructure solutions, supporting data centres, cloud providers, and
+        enterprises and Intel Foundry segment includes manufacturing of wafers
+        and related services for intel products.
+      </p>
+      <h2>Q1'25 Result Summary</h2>
+      <p class="date">Published: May 4, 2025</p>
+
+      <p style="text-align: justify">
+        Total revenue declined by (0.4%) to $12.6B primarily due to lower sales
+        in CCG segment which was partially offset by increased sales in DCAI and
+        higher revenue in Intel Foundry segment.
+      </p>
+      <p style="text-align: justify">
+        CCG segment revenue declined by (7.8%) to $7.6B, client revenue which
+        consist of notebook and desktop was down (9.2%) to $6.5B (86% of CCG
+        revenue) primarily due to lower client volume resulting from incremental
+        customer incentives offered to certain customer.
+      </p>
+      <p style="text-align: justify">
+        DCAI revenue increased by 7.8% to $4.1B, primarily due to higher demand
+        for edge processing unit and server hardware's (Xeon processor) due to
+        rapid adoption of AI.
+      </p>
+      <p style="text-align: justify">
+        Intel Foundry segment revenue increase by 7.1% to $4.6B, driven by
+        increased advanced packaging services and increased internal consumption
+        of Intel seven wafers for Intel 3 and Intel 4 leading edge process
+        nodes.
+      </p>
+      <p style="text-align: justify">
+        Gross margin for Q1'25 declined to 36.9% v/s 41% primarily due to higher
+        period charges because of Gaudi AI accelerator inventory reserves taken
+        in Q1'25 coupled with lower sell-through of previously reserved
+        inventory and increased mix of Intel 7 and Intel 3 product which
+        generally has higher server unit cost and lower margins.
+      </p>
+      <p style="text-align: justify">
+        Operating margin improved to (2.4%) v/s (8.4%), primarily driven by
+        lower payroll related expenditures resulting from headcount reductions
+        taken under the 2024 Restructuring Plan, which was partially offset by
+        startup cost associated with the ramp up of Intel 18A (new generation
+        chip).
+      </p>
+      <h2>Q2'25 Guidance:</h2>
+      <p style="text-align: justify">
+        Management has guided revenue to be in range of $11.2B to $12.4B v/s
+        12.8B reported in Q2'24 with a gross margin of 34.3% v/s 35.4% in Q2'24.
+      </p>
+      <p style="text-align: justify">
+        For FY'25, Company initiated the process of deleveraging its balance
+        sheet which is evident as Intel trimmed down its capital investments
+        from previously guided $20B to $18B and Operating expenses of
+        approximately $17B, which is $500M lower than previously expected.
+      </p>
+      <!-- Social Media Follow Icons -->
+      <div class="social-icons">
+        <a
+          href="https://www.linkedin.com/in/yourprofile"
+          target="_blank"
+          aria-label="Follow on LinkedIn"
+          class="icon linkedin"
+        >
+          <!-- LinkedIn SVG icon -->
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="#0A66C2"
+            width="32"
+            height="32"
+          >
+            <path
+              d="M4.98 3.5C4.98 4.88 3.88 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM0 8h5v16H0V8zm7 0h4.75v2.2h.07c.66-1.25 2.27-2.57 4.67-2.57 5 0 5.92 3.3 5.92 7.58V24H17v-7.5c0-1.8-.03-4.12-2.5-4.12-2.5 0-2.88 1.95-2.88 3.98V24H7V8z"
+            />
+          </svg>
+        </a>
+        <a
+          href="https://www.reddit.com/user/yourprofile"
+          target="_blank"
+          aria-label="Follow on Reddit"
+          class="icon reddit"
+        >
+          <!-- Reddit SVG icon -->
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="#FF4500"
+            width="32"
+            height="32"
+          >
+            <path
+              d="M24 12c0-6.627-5.373-12-12-12S0 5.373 0 12c0 5.991 4.388 10.936 10.125 11.854v-8.385H7.078v-3.47h3.047V9.413c0-3.007 1.792-4.668 4.533-4.668 1.312 0 2.686.235 2.686.235v2.953h-1.513c-1.491 0-1.953.927-1.953 1.877v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 22.936 24 17.991 24 12z"
+            />
+          </svg>
+        </a>
+        <a
+          href="https://twitter.com/yourprofile"
+          target="_blank"
+          aria-label="Follow on X"
+          class="icon x"
+        >
+          <!-- X (Twitter) SVG icon -->
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="#1DA1F2"
+            width="32"
+            height="32"
+          >
+            <path
+              d="M23.954 4.569c-.885.392-1.83.656-2.825.775 1.014-.611 1.794-1.574 2.163-2.724-.949.564-2.005.974-3.127 1.195-.897-.959-2.178-1.559-3.594-1.559-2.723 0-4.928 2.206-4.928 4.928 0 .39.045.765.127 1.124-4.094-.205-7.725-2.165-10.159-5.144-.424.729-.666 1.577-.666 2.476 0 1.708.87 3.216 2.188 4.099-.807-.026-1.566-.248-2.228-.616v.062c0 2.386 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.317 0-.626-.03-.928-.086.627 1.956 2.444 3.377 4.6 3.417-1.68 1.318-3.809 2.105-6.102 2.105-.396 0-.787-.023-1.17-.067 2.179 1.397 4.768 2.213 7.557 2.213 9.054 0 14.002-7.496 14.002-13.986 0-.21 0-.423-.015-.633.962-.695 1.8-1.562 2.46-2.549z"
+            />
+          </svg>
+        </a>
+        <!-- Add more icons as needed -->
+      </div>
+    </div>
+  </body>
+</html>

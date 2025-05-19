@@ -1,0 +1,10 @@
+th {
+  color: #fff;
+  background-color: rgb(119, 115, 115);
+  font-weight: bold;
+  padding: 1%;
+}
+
+td {
+  background-color: rgba(243, 236, 226, 0.872);
+}
